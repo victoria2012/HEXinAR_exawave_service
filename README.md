@@ -56,7 +56,7 @@
   ![image](https://user-images.githubusercontent.com/85272350/136387475-5649a691-cbcc-4f04-b96b-c97d22a5df46.png)
 
 * 스크래핑
-  - DAUM 일자별 NEWS (2020. 08. 01 ~ 2021. 10. 06)
+  - 데이터출처 : DAUM 일자별 NEWS (2020. 08. 01 ~ 2021. 10. 06) / 총 5,222,150건
   - Schedule : 스크래핑 자동화  
   
 * DB 저장
